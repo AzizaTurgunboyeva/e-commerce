@@ -2,8 +2,9 @@
 import styled from "styled-components";
 
 export const ProductPageWrapper = styled.div`
-  padding: 2rem;
-  background-color: #f9f9f9;
+ 
+  width: 800px;
+  margin: 0 auto;
   min-height: 100vh;
 `;
 

@@ -35,7 +35,7 @@ export const CardWrapper = styled.div`
       object-fit: contain;
       margin-bottom: 1rem;
     }
-    a{
+    a {
       text-decoration: none;
     }
 
